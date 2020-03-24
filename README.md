@@ -1,2 +1,2 @@
 # Image-Caption-Generator
-will update later...
+Python based project implementing CNN and LSTM.
